@@ -14,7 +14,7 @@ let isLoggedIn =true/false
 //bigint
 //string =""
 //boolean =>true/false
-//null => standlone vaalue
+//null => standlone value
 //undefined =>not initialize
 //symbole =>unique when create multiple componets like react componenets use
 
